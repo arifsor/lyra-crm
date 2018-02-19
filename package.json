@@ -1,0 +1,22 @@
+{
+  "name": "lyra-crm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arifsor/lyra-crm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arifsor/lyra-crm/issues"
+  },
+  "homepage": "https://github.com/arifsor/lyra-crm#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
